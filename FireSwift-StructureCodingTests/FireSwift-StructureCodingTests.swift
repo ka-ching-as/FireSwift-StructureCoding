@@ -1,15 +1,15 @@
 //
-//  SwiftyFirebaseTests.swift
-//  SwiftyFirebaseTests
+//  FireSwift-StructureCodingTests.swift
+//  FireSwift_StructureCodingTests
 //
 //  Created by Morten Bek Ditlevsen on 26/07/2018.
 //  Copyright © 2018 Ka-ching. All rights reserved.
 //
 
 import XCTest
-@testable import FireSwift_Database
+@testable import FireSwift_StructureCoding
 
-class FireSwift_DatabaseTests: XCTestCase {
+class FireSwift_StructureCodingTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
